@@ -66,10 +66,6 @@ public class MainConfig {
         return new Person("bill-gates", 62);
     }
 
-    @Bean
-    public ColorFactoryBean colorFactoryBean(){
-        System.out.println("创建colorFactoryBean对象，并注入到容器中");
-        return new ColorFactoryBean();
-    }
+
 
 }
