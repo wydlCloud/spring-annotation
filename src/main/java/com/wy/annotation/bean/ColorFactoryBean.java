@@ -6,7 +6,7 @@ import org.springframework.beans.factory.FactoryBean;
  * @author wy
  * @company 妈妈好网络科技
  * @Classname ColorFactoryBean
- * @Description
+ * @Description 注册组件
  * @Date 2020/3/3 9:35 下午
  */
 // 创建一个spring定义的FactoryBean

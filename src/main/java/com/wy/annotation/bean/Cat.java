@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
  * @author wy
  * @company 妈妈好网络科技
  * @Classname Cat
- * @Description TODO
+ * @Description 主要是bean的生命周期初始化和销毁
  * @Date 2020/3/3 10:56 下午
  */
 @Component
